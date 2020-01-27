@@ -1,0 +1,362 @@
+[
+    {
+        "Name": "www.example.com.",
+        "TTL": 64,
+        "IPv4": "93.184.216.34"
+    },
+    {
+        "Name": "www.google.com.",
+        "TTL": 64,
+        "IPv4": "172.217.16.164"
+    },
+    {
+        "Name": "ssl.gstatic.com.",
+        "TTL": 220,
+        "IPv4": "172.217.22.67"
+    },
+    {
+        "Name": "p13n.adobe.io.",
+        "TTL": 52,
+        "IPv4": "34.202.3.124"
+    },
+    {
+        "Name": "bsmch-sccm.bsmch.net.",
+        "TTL": 1200,
+        "IPv4": "10.1.0.40"
+    },
+    {
+        "Name": "clientservices.googleapis.com.",
+        "TTL": 160,
+        "IPv4": "74.125.193.94"
+    },
+    {
+        "Name": "wpad.bsmch.net.",
+        "TTL": 3600,
+        "IPv4": "10.1.0.10"
+    },
+    {
+        "Name": "www.joe.com.",
+        "TTL": 1142,
+        "IPv4": "66.153.205.153"
+    },
+    {
+        "Name": "DC-2.bsmch.net.",
+        "TTL": 3600,
+        "IPv4": "10.1.0.5"
+    },
+    {
+        "Name": "google.com.",
+        "TTL": 22,
+        "IPv4": "74.125.193.102"
+    },
+    {
+        "Name": "safebrowsing.googleapis.com.",
+        "TTL": 244,
+        "IPv4": "172.253.116.95"
+    },
+    {
+        "Name": "www.go.com.",
+        "TTL": 299,
+        "IPv4": "34.216.127.34"
+    },
+    {
+        "Name": "example.com.",
+        "TTL": 532,
+        "IPv4": "93.184.216.34"
+    },
+    {
+        "Name": "DC-1.bsmch.net.",
+        "TTL": 3600,
+        "IPv4": "10.1.0.4"
+    },
+    {
+        "Name": "www.googleapis.com.",
+        "TTL": 180,
+        "IPv4": "74.125.193.95"
+    },
+    {
+        "Name": "gmail.com.",
+        "TTL": 300,
+        "IPv4": "74.125.193.19"
+    },
+    {
+        "Name": "www.gstatic.com.",
+        "TTL": 248,
+        "IPv4": "74.125.193.94"
+    },
+    {
+        "Name": "accounts.google.com.",
+        "TTL": 232,
+        "IPv4": "209.85.203.84"
+    },
+    {
+        "Name": "fonts.googleapis.com.",
+        "TTL": 109,
+        "IPv4": "209.85.203.95"
+    },
+    {
+        "Name": "bsmch.net.",
+        "TTL": 600,
+        "IPv4": "10.1.0.5"
+    },
+    {
+        "Name": "www.chinchila.com.",
+        "TTL": 299,
+        "IPv4": "69.172.201.153"
+    },
+    {
+        "Name": "id.google.com.",
+        "TTL": 300,
+        "IPv4": "74.125.193.94"
+    },
+    {
+        "Name": "files.realpython.com.",
+        "TTL": 300,
+        "IPv4": "104.26.15.239"
+    },
+    {
+        "Name": "robocrop.realpython.net.",
+        "TTL": 300,
+        "IPv4": "104.26.14.175"
+    },
+    {
+        "Name": "EPO.bsmch.net.",
+        "TTL": 1200,
+        "IPv4": "10.1.0.46"
+    },
+    {
+        "Name": "play.google.com.",
+        "TTL": 105,
+        "IPv4": "74.125.193.138"
+    },
+    {
+        "Name": "scapy.readthedocs.io.",
+        "TTL": 300,
+        "IPv4": "104.208.221.96"
+    },
+    {
+        "Name": "readthedocs.org.",
+        "TTL": 300,
+        "IPv4": "104.28.23.38"
+    },
+    {
+        "Name": "array606.prod.do.dsp.mp.microsoft.com.",
+        "TTL": 1050,
+        "IPv4": "40.69.220.46"
+    },
+    {
+        "Name": "redirector.gvt1.com.",
+        "TTL": 300,
+        "IPv4": "74.125.193.100"
+    },
+    {
+        "Name": "joe.com.",
+        "TTL": 1800,
+        "IPv4": "66.153.205.153"
+    },
+    {
+        "Name": "uploadfiles.io.",
+        "TTL": 299,
+        "IPv4": "104.23.141.15"
+    },
+    {
+        "Name": "up.uploadfiles.io.",
+        "TTL": 300,
+        "IPv4": "104.23.142.15"
+    },
+    {
+        "Name": "ajax.googleapis.com.",
+        "TTL": 18,
+        "IPv4": "74.125.193.95"
+    },
+    {
+        "Name": "cdn.sstatic.net.",
+        "TTL": 480,
+        "IPv4": "151.101.193.69"
+    },
+    {
+        "Name": "d2fashanjl7d9f.cloudfront.net.",
+        "TTL": 37,
+        "IPv4": "99.86.122.15"
+    },
+    {
+        "Name": "www.gravatar.com.",
+        "TTL": 121,
+        "IPv4": "192.0.73.2"
+    },
+    {
+        "Name": "stackoverflow.com.",
+        "TTL": 1667,
+        "IPv4": "151.101.65.69"
+    },
+    {
+        "Name": "tpc.googlesyndication.com.",
+        "TTL": 193,
+        "IPv4": "74.125.193.132"
+    },
+    {
+        "Name": "e1879.e7.akamaiedge.net.",
+        "TTL": 15,
+        "IPv4": "96.6.6.15"
+    },
+    {
+        "Name": "partnerad.l.doubleclick.net.",
+        "TTL": 119,
+        "IPv4": "74.125.193.156"
+    },
+    {
+        "Name": "dsh7ky7308k4b.cloudfront.net.",
+        "TTL": 60,
+        "IPv4": "13.224.68.40"
+    },
+    {
+        "Name": "quantcast.mgr.consensu.org.",
+        "TTL": 39,
+        "IPv4": "99.86.122.31"
+    },
+    {
+        "Name": "cdn.datacamp.com.",
+        "TTL": 59,
+        "IPv4": "99.86.122.42"
+    },
+    {
+        "Name": "static.quantcast.mgr.consensu.org.",
+        "TTL": 60,
+        "IPv4": "99.86.122.31"
+    },
+    {
+        "Name": "api-js.mixpanel.com.",
+        "TTL": 1800,
+        "IPv4": "130.211.34.183"
+    },
+    {
+        "Name": "www.google.ie.",
+        "TTL": 218,
+        "IPv4": "74.125.193.94"
+    },
+    {
+        "Name": "static.mailerlite.com.",
+        "TTL": 299,
+        "IPv4": "104.20.210.48"
+    },
+    {
+        "Name": "scontent.xx.fbcdn.net.",
+        "TTL": 54,
+        "IPv4": "185.60.216.19"
+    },
+    {
+        "Name": "www-google-analytics.l.google.com.",
+        "TTL": 82,
+        "IPv4": "209.85.203.138"
+    },
+    {
+        "Name": "carbonads.bsa.netdna-cdn.com.",
+        "TTL": 300,
+        "IPv4": "23.111.10.140"
+    },
+    {
+        "Name": "pynput.readthedocs.io.",
+        "TTL": 300,
+        "IPv4": "104.208.221.96"
+    },
+    {
+        "Name": "cdnjs.cloudflare.com.",
+        "TTL": 136,
+        "IPv4": "104.17.64.4"
+    },
+    {
+        "Name": "cse.google.com.",
+        "TTL": 128,
+        "IPv4": "74.125.193.102"
+    },
+    {
+        "Name": "s.w.org.",
+        "TTL": 10,
+        "IPv4": "192.0.77.48"
+    },
+    {
+        "Name": "internal-pixel-euc102-lighttpd-elb-1608001443.eu-central-1.elb.amazonaws.com.",
+        "TTL": 0,
+        "IPv4": "91.228.74.200"
+    },
+    {
+        "Name": "sb.scorecardresearch.com.",
+        "TTL": 1068,
+        "IPv4": "sb.scorecardresearch.com.edgekey.net."
+    },
+    {
+        "Name": "fonts.gstatic.com.",
+        "TTL": 25,
+        "IPv4": "gstaticadssl.l.google.com."
+    },
+    {
+        "Name": "secure.quantserve.com.",
+        "TTL": 65,
+        "IPv4": "2kpixel.quantserve.com."
+    },
+    {
+        "Name": "www.geeksforgeeks.org.",
+        "TTL": 198,
+        "IPv4": "www.geeksforgeeks.org.edgesuite.net."
+    },
+    {
+        "Name": "pagead2.googlesyndication.com.",
+        "TTL": 74,
+        "IPv4": "pagead46.l.doubleclick.net."
+    },
+    {
+        "Name": "www.google-analytics.com.",
+        "TTL": 244,
+        "IPv4": "www-google-analytics.l.google.com."
+    },
+    {
+        "Name": "www.reddit.com.",
+        "TTL": 156,
+        "IPv4": "reddit.map.fastly.net."
+    },
+    {
+        "Name": "lh5.googleusercontent.com.",
+        "TTL": 496,
+        "IPv4": "googlehosted.l.googleusercontent.com."
+    },
+    {
+        "Name": "graph.facebook.com.",
+        "TTL": 214,
+        "IPv4": "api.facebook.com."
+    },
+    {
+        "Name": "assets.readthedocs.org.",
+        "TTL": 300,
+        "IPv4": "rtdcommunitypublic.azureedge.net."
+    },
+    {
+        "Name": "platform-lookaside.fbsbx.com.",
+        "TTL": 433,
+        "IPv4": "scontent.xx.fbcdn.net."
+    },
+    {
+        "Name": "cdn.programiz.com.",
+        "TTL": 891,
+        "IPv4": "programiz.b-cdn.net."
+    },
+    {
+        "Name": "maxcdn.bootstrapcdn.com.",
+        "TTL": 209,
+        "IPv4": "cds.j3z9t3p6.hwcdn.net."
+    },
+    {
+        "Name": "connect.facebook.net.",
+        "TTL": 690,
+        "IPv4": "scontent.xx.fbcdn.net."
+    },
+    {
+        "Name": "www.facebook.com.",
+        "TTL": 1521,
+        "IPv4": "star-mini.c10r.facebook.com."
+    },
+    {
+        "Name": "vendorlist.consensu.org.",
+        "TTL": 1601,
+        "IPv4": "dzp5etodm9s0j.cloudfront.net."
+    }
+]
